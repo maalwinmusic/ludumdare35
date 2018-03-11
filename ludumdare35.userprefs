@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\homeScript.cs">
+    <Files>
+      <File FileName="Assets\script\gameOverScript.cs" Line="33" Column="41" />
+      <File FileName="Assets\script\homeScript.cs" Line="38" Column="3" />
+      <File FileName="Assets\script\soundeffectTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\obstacleScript.cs" Line="67" Column="7" />
+      <File FileName="Assets\script\cubeSwitch.cs" Line="27" Column="3" />
+      <File FileName="Assets\script\detectionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ddol.cs" Line="8" Column="16" />
+      <File FileName="Assets\script\highScore.cs" Line="21" Column="3" />
+      <File FileName="Assets\script\startScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\lastScorer.cs" Line="9" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
